@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Todoey
 //
-//  Created by Rav Tecnologia on 13/05/2019.
-//  Copyright © 2019 Rav Tecnologia. All rights reserved.
+//  Created by rodrigoftw on 13/05/2019.
+//  Copyright © 2019 rodrigoftw. All rights reserved.
 //
 
 import UIKit
