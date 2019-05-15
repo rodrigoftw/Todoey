@@ -96,7 +96,6 @@ class CategoryViewController: UITableViewController {
         alert.addTextField { (field) in
             textField = field
             field.placeholder = "Add a new Category"
-            
         }
         
         present(alert, animated: true, completion: nil)
